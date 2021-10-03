@@ -1,0 +1,18 @@
+.logo{
+    height: 50px;
+}
+.website nav{
+    background-color: black;
+    line-height: 40px;
+}
+.website nav a{
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+    padding: 5px;
+    font-size: 20px;
+
+}
+.website nav a:hover{
+background-color: lightgrey;
+}
